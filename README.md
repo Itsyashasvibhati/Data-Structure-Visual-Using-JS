@@ -7,30 +7,23 @@ This project is a Data Structures and Algorithms (DSA) Visualization Tool, focus
 📌 Features
 
 📊 Stack Visualization
-
 Push, pop, and peek operations with animations.
-
 Real-time updates displaying stack behavior.
 
+
 🌳 Tree Visualization
-
 Insert and delete nodes dynamically.
-
 Graphical representation of tree structures.
-
 Supports Binary Search Tree (BST) visualization.
 
+
 🎨 User-Friendly Interface
-
 Clean and responsive UI.
-
 Smooth animations for better understanding.
 
 
 🛠️ Technologies Used
-
 HTML, CSS, JavaScript – For frontend and UI design.
-
 JavaScript (DOM Manipulation) – For real-time visualization
 
 
@@ -39,14 +32,8 @@ JavaScript (DOM Manipulation) – For real-time visualization
 
 
 🤝 Contributing
-
 Contributions are welcome! Feel free to submit a Pull Request or report issues.
 
-📜 License
-
-This project is licensed under the MIT License.
-
 💡 Author
-
 Yashasvi Bhati – Software Developer & Project Manager
 
