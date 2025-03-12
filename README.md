@@ -46,5 +46,5 @@ Contributions are welcome! Feel free to submit a Pull Request or report issues.
 
 💡 Author:-
 
-Yashasvi Bhati – Software Developer & Project Manager
+Yashasvi Bhati – Software Developer & Project Manager.
 
